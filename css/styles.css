@@ -1,0 +1,137 @@
+
+#title
+{
+    background-color: #ff4c68;
+
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+body{
+  font-family: "Montserrat"
+}
+
+h1{
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+   line-height: 1.5;
+   color: white;
+}
+
+h2{
+
+  font-family: Montserrat;
+  font-weight: bold;
+
+}
+
+h3{
+  font-family: Montserrat;
+  font-weight: bold;
+      }
+
+p{
+  color: #808080;
+}
+
+/* navigation bar */
+.navbar{
+  padding-top:20px;
+  padding-bottom: 100px;
+}
+
+.iphone6 {
+    width: 60%;
+    transform: rotate(25deg);
+    position: relative;
+    left: 20%;
+
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.download-btton{
+  margin: 5% 3% 5% 0;
+}
+
+.navbar-brand{
+  font-family: Ubuntu;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+/* feature area */
+
+
+.featuerd-row{
+  padding: 8% 8%;
+  text-align: center;
+}
+
+
+.fa-solid{
+  color: #ff4c68;
+}
+
+/* testimonial area */
+#testimonials{
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.carousel-item{
+    padding:10% 10%;
+}
+
+.testimonial-image{
+border-radius: 80%;
+}
+
+#press {
+  background-color: #ff4c68;
+  padding-bottom: 3%;
+  padding-left:15%;
+}
+
+.presspics{
+  width: 15%;
+    margin-left: 5%;
+}
+
+#pricing{
+  padding: 5% 8%;
+}
+
+.EveryDog{
+  text-align: center;
+}
+
+#cta{
+    background-color: #ff4c68;
+  text-align: center;
+padding: 10%;
+}
+
+.sectiontext{
+  padding: 0 10%;
+  color: white;
+  font-size: 3rem;
+}
+
+.Copyright{
+  padding: 2% 0 0;
+}
+
+#footer{
+  padding: 6% 8%;
+    text-align: center;
+  }
+
+.icon{
+  margin: 0 2% 0;
+}
